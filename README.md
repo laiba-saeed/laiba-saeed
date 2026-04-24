@@ -108,10 +108,12 @@ const laibaSaeed = {
 
 <br/><br/>
 
-![Profile Views](https://visitor-badge.laobi.icu/profile-views/github/laiba-saeed/views.svg)
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=laiba-saeed.laiba-saeed&color=a78bfa&labelColor=0d1117&label=Profile%20Views)
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
