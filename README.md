@@ -1,22 +1,129 @@
-<h1 align="center">Hi 👋, I'm Laiba Saeed</h1>
-<!-- <img align="right" alt="Coding" width="400" src="[https://github.com/topics/gifs?o=desc&s=updated](https://devpost.com/software/octoclippy)"> -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laiba-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="laiba-saeed" /> </p>
+<!-- Animated Google Colors Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 
-- 📫 How to reach me **laibasaeed538@gmail.com**
+<!-- Profile Avatar -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 
-- ⚡ Fun fact **I've mastered the art of talking to machines, but sometimes I struggle with small talk with humans.**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/laiba-saeed-9420921b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laiba-saeed-9420921b5" height="30" width="40" /></a>
+<!-- Google-style Name -->
+<h1>
+  <span style="color:#4285F4">J</span><span style="color:#EA4335">a</span><span style="color:#FBBC05">w</span><span style="color:#4285F4">a</span><span style="color:#34A853">d</span>
+  &nbsp;
+  <span style="color:#EA4335">S</span><span style="color:#FBBC05">h</span><span style="color:#34A853">a</span><span style="color:#4285F4">h</span>
+</h1>
+
+<!-- Badges -->
+<a href="https://github.com/laiba-saeed">
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-34A853?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Full Stack" />
+</a>
+<a href="https://github.com/laiba-saeed">
+  <img src="https://img.shields.io/badge/4%2B%20Years%20Experience-4285F4?style=for-the-badge&logo=react&logoColor=white" alt="Experience" />
+</a>
+
+<br/><br/>
+
+<!-- Social Badges — Google Material Style -->
+<a href="laibasaeeed538@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/laiba-saeed-tech/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+
+</div>
+
+---
+```
+> About Laiba Saeed                                                🔍
+───────────────────────────────────────────────────────────────────────
+  ✦  Full-Stack Dev · building scalable web apps & APIs
+  ✦  Expertise: React · Node.js · NestJS · TypeScript · AWS · DevOps
+  ✦  Open to OSS collaboration & high-impact product work
+───────────────────────────────────────────────────────────────────────
+```
+
+---
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/emoji.svg" width="24" /> Tech Stack
+
+<!-- Google Product Color-coded Tech Icons -->
+
+**🔵 Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+**🔴 Backend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laiba-saeed&show_icons=true&locale=en&layout=compact" alt="laiba-saeed" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" title="GoLang" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laiba-saeed&show_icons=true&locale=en" alt="laiba-saeed" /></p>
+**🟡 Data**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laiba-saeed&" alt="laiba-saeed" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+</p>
+
+**🟢 Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" />&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pulumi.svg" height="48" title="Pulumi" />
+</p>
+
+---
+
+GitHub Overview
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=laiba-saeed&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&icon_color=34A853&text_color=ffffff&ring_color=EA4335" 
+        alt="Laiba's GitHub Stats" 
+        height="165" 
+      />
+    </td>
+    <td rowspan="2">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-saeed&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&text_color=ffffff" 
+        alt="Top Languages" 
+        height="330" 
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=laiba-saeed&theme=tokyonight&hide_border=true&background=0d1117&ring=4285F4&fire=EA4335&currStreakLabel=FBBC05&sideLabels=34A853" 
+        alt="GitHub Streak" 
+        height="165" 
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- Google-style Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laiba-saeed&bg_color=0d1117&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+
+</div>
