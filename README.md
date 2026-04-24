@@ -108,7 +108,7 @@ const laibaSaeed = {
 
 <br/><br/>
 
-![Profile Views](https://komainu8.github.io/profile-views/github/laiba-saeed/views.svg)
+![Profile Views](https://visitor-badge.laobi.icu/profile-views/github/laiba-saeed/views.svg)
 
 </div>
 
