@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Jawad%20Shah&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=blinking&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20OSS%20Contributor&descAlignY=78&descSize=16&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Laiba%20Saeed&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=blinking&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20OSS%20Contributor&descAlignY=78&descSize=16&descColor=a78bfa" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 ## ◈ About
 
 ```typescript
-const jawadShah = {
+const laibaSaeed = {
   role        : "Full-Stack Engineer",
   experience  : "4+ years",
   location    : "Pakistan 🇵🇰",
