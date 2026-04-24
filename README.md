@@ -108,7 +108,7 @@ const laibaSaeed = {
 <br/><br/>
 
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=laiba-saeed.laiba-saeed&color=a78bfa&labelColor=0d1117&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=laiba-saeed&label=Profile%20Views&color=a78bfa&style=flat&base=200)
 
 </div>
 
