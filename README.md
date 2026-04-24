@@ -92,18 +92,6 @@ const laibaSaeed = {
 
 </div>
 
----
-
-## ◈ Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=laiba-saeed&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
-</div>
-
----
-
 ## ◈ Connect
 
 <div align="center">
