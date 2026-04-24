@@ -19,8 +19,7 @@
 ```typescript
 const laibaSaeed = {
   role        : "Full-Stack Engineer",
-  experience  : "4+ years",
-  location    : "Pakistan 🇵🇰",
+  experience  : "4 years",
   focus       : ["Scalable Web Apps", "REST & GraphQL APIs", "Cloud-Native Infra"],
   currentlyOn : "Open to OSS collaboration & high-impact product work",
   contact     : "laibasaeeed538@gmail.com",
