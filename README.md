@@ -108,7 +108,7 @@ const laibaSaeed = {
 <br/><br/>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=laiba-saeed&label=Profile%20Views&color=a78bfa&style=flat&base=100)
+![Profile Views](https://komarev.com/ghpvc/?username=laiba-saeed&label=Profile%20Views&color=a78bfa&style=flat)
 
 </div>
 
